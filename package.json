@@ -1,0 +1,16 @@
+{
+	"name": "fmentor-single-price-php",
+	"version": "1.0.0",
+	"description": "single price grid component using php",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/al3xback/fmentor-single-price-php.git"
+	},
+	"author": "alex <al3xback@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/al3xback/fmentor-single-price-php/issues"
+	},
+	"homepage": "https://github.com/al3xback/fmentor-single-price-php#readme"
+}
