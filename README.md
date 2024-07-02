@@ -11,10 +11,6 @@ Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - See a hover state on desktop for the Sign Up call-to-action
 
-### Links
-
-- Live Site URL: https://al3xback.github.io/fmentor-single-price-php/
-
 ## My process
 
 ### Built with
